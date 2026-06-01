@@ -171,6 +171,11 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+AGENTS.md
+/docs/PROJECT_SPEC.md
+/docs/ARCHITECTURE.md
+/docs/ROADMAP.md
+
 
 # Pyre type checker
 .pyre/
